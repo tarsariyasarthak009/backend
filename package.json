@@ -1,0 +1,16 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "this is final project of backend with chai or code in node js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
